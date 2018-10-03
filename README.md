@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 First Website
 ===
 
@@ -659,3 +660,7 @@ You just sent your code to github where it will be backed up and made into a web
 Give it a couple minutes and you should be able to view your website live on the web at http://username.github.io! (Where 'username' is your own GitHub username.)
 
 Congratulations!  You are LIVE ON THE INTERNET!
+=======
+# TannerB16SHS.github.io
+My First Website
+>>>>>>> 745679f256936c4442b52a76b33eec89471ac82e
